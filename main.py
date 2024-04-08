@@ -1,5 +1,5 @@
 import random
-import telebot #why pylance thinks it's not installed?
+import telebot
 
 bot = telebot.TeleBot('7021467106:AAG_4O56OhdLROlfnElq4bzaO0JgHptjPBo')
 
