@@ -1,7 +1,7 @@
 import random
 import telebot
 
-bot = telebot.TeleBot('7021467106:AAG_4O56OhdLROlfnElq4bzaO0JgHptjPBo') #Change this token to yor bot's token./Смените этот токен на токен вашего бота.
+bot = telebot.TeleBot('YOUR_API_TOKEN') #Change this token to yor bot's token./Смените этот токен на токен вашего бота.
 
 def tasks_suggestion(bot, chat_id, user_input):
     exercises = [
