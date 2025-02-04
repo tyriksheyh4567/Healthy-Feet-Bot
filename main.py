@@ -1,5 +1,5 @@
-import random
-import telebot
+import random #for randomizing exercises and giving only one to output then
+import telebot #lib to interact with Telegram API
 
 bot = telebot.TeleBot('YOUR_API_TOKEN') #Change this token to yor bot's token./Смените этот токен на токен вашего бота.
 
